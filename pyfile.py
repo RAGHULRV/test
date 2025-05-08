@@ -1,1 +1,1 @@
-print("pavithra paithiyam mental") 
+
